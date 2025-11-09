@@ -2,7 +2,7 @@
   "name": "start",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://3omda3010.github.io/usePopCorn/",
+  "homepage": "https://3omda3010.github.io/usePopCorn",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
