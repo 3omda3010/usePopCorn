@@ -17,13 +17,6 @@ export default function App() {
 
   const [watched, setWatched] = useLocalStorage([], "watched");
 
-  // const [watched, setWatched] = useState([]);
-
-  // const [wat ched, setWatched] = useState(function () {
-  //   const storedValue = localStorage.getItem("watched");
-  //   return JSON.parse(storedValue);
-  // });
-
   function handleSelectMovie(id) {
     setSelectedId((selectedId) => (selectedId === id ? null : id));
   }
