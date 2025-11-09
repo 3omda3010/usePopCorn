@@ -2,7 +2,7 @@
   "name": "start",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mywebsite.com/relativepath",
+  "homepage": "https://github.com/3omda3010/usePopCorn",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
